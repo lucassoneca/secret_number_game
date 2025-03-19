@@ -13,7 +13,7 @@
 <div>
   o jogo está disponível neste site:
 
-  https://vercel.com/lucassonecas-projects/secret-number-game
+  https://secret-number-game-2r44h8t03-lucassonecas-projects.vercel.app/
 
   a hospedagem é gratuita, peço que não entre muitas vezes para o host não cair ☺️
 </div>
